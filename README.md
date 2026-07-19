@@ -9,6 +9,16 @@ This repository contains compressed ZIP mirror backups of Git repositories, stor
 | 01 | 2026-07-19 | shannon | [https://github.com/KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | `01. shannon.git.zip` | 6 | 12 | ✅ Active |
 | 02 | 2026-07-19 | UI-TARS-desktop | [https://github.com/bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | `02. UI-TARS-desktop.git.zip.001` - `.003` *(Split)* | 275 | 547 | ✅ Active |
 
+## Repository Overview & Descriptions
+
+### 01. shannon
+*   **Purpose**: Autonomous AI pentesting agent framework.
+*   **Description**: Analyzes application source code to discover attack vectors, executes exploits locally, and produces high-fidelity proofs-of-concept (PoC) for vulnerabilities such as SQL injection, XSS, SSRF, and broken auth.
+
+### 02. UI-TARS-desktop
+*   **Purpose**: Native GUI automation desktop application.
+*   **Description**: Run as the desktop interface for UI-TARS (multimodal GUI model), letting user-facing automation loops perform mouse/keyboard interactions on local or remote operating systems.
+
 ---
 
 ## How to Reassemble Split Archives
