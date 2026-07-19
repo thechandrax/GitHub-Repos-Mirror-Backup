@@ -6,8 +6,8 @@ This repository contains compressed ZIP mirror backups of Git repositories, stor
 
 | S.No | Backup Date | Repository Name | Source Remote URL | Archive File | Branches | Tags | Status |
 | :--- | :--- | :--- | :--- | :--- | :---: | :---: | :---: |
-| 01 | 2026-07-19 | shannon | `https://github.com/KeygraphHQ/shannon` | `01. shannon.git.zip` | 6 | 12 | ✅ Active |
-| 02 | 2026-07-19 | UI-TARS-desktop | `https://github.com/bytedance/UI-TARS-desktop` | `02. UI-TARS-desktop.git.zip.001` - `.003` *(Split)* | 275 | 547 | ✅ Active |
+| 01 | 2026-07-19 | shannon | [https://github.com/KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | `01. shannon.git.zip` | 6 | 12 | ✅ Active |
+| 02 | 2026-07-19 | UI-TARS-desktop | [https://github.com/bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | `02. UI-TARS-desktop.git.zip.001` - `.003` *(Split)* | 275 | 547 | ✅ Active |
 
 ---
 
